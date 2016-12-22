@@ -1,0 +1,16 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="1004" height="1361" viewBox="0 0 1004 1361">
+  <title>book-bg</title>
+  <g id="_Group_" data-name="&lt;Group&gt;">
+    <path d="M350.93,18.5H171.07a9.56,9.56,0,0,0-9.57,9.57V37.5h25V515a9.21,9.21,0,0,0,.22,2.05,9.57,9.57,0,0,0,14.12,6.25L261,488.68l7.73-4.44a9.56,9.56,0,0,1,9.54,0l57,32.77,10.88,6.25A9.57,9.57,0,0,0,360.5,515V28.07A9.56,9.56,0,0,0,350.93,18.5Z" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 8px"/>
+    <g>
+      <path d="M278.27,484.24a9.56,9.56,0,0,0-9.54,0L261,488.68l60.16,34.58A9.57,9.57,0,0,0,335.28,517Z" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 8px"/>
+      <path d="M186.5,37.5h-25V515a9.57,9.57,0,0,0,14.34,8.3L186.72,517a9.21,9.21,0,0,1-.22-2.05Z" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 8px"/>
+      <path d="M61.5,40.34V1353.66a78,78,0,0,0,20.91,2.84H90.5V37.5H82.41A78,78,0,0,0,61.5,40.34Z" style="fill: #fff;stroke: #fff;stroke-miterlimit: 10;stroke-width: 8px"/>
+    </g>
+    <g>
+      <path d="M921.59,37.5H360.5V515a9.57,9.57,0,0,1-14.34,8.3L335.28,517a9.57,9.57,0,0,1-14.12,6.25L261,488.68l-60.16,34.58A9.57,9.57,0,0,1,186.72,517l-10.88,6.25A9.57,9.57,0,0,1,161.5,515V37.5h-71v1319H926.4a73.31,73.31,0,0,0,73.1-73.1v-1168A77.91,77.91,0,0,0,921.59,37.5Z" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 9px"/>
+      <path d="M4.5,115.41V1278.59a77.92,77.92,0,0,0,57,75.07V40.34A77.92,77.92,0,0,0,4.5,115.41Z" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 9px"/>
+    </g>
+    <path d="M190,34V20s-21-1-24,3,0,17,0,17" style="fill: #fff"/>
+  </g>
+</svg>

@@ -1,0 +1,407 @@
+
+h1 {
+  color: $whitey-white;
+  font-family: 'Lora', serif;
+  -webkit-font-smoothing: antialiased;
+  font-style: normal;
+  font-variant: normal;
+}
+
+.btn-outline-secondary {
+  background-color: transparent;
+  background-image: none;
+  border-color: $whitey-white;
+  color: $whitey-white;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+
+p {
+  color: $whitey-white;
+  font-family: 'Lato', sans-serif;
+  -webkit-font-smoothing: antialiased;
+
+}
+
+.push-right {
+  margin-right: .5em;
+}
+
+.list-group-item {
+  -webkit-font-smoothing: antialiased;
+  background-color: $faded-white;
+  border: 1px solid $grey;
+  color: $whitey-white;
+  display: block;
+  margin-bottom: -1px;
+  padding: .75rem 1.25rem;
+  position: relative;
+}
+
+
+.navbar-light .navbar-nav .nav-link {
+  -webkit-font-smoothing: antialiased;
+  a {
+    color: $whitey-white;
+  }
+
+  color: $whitey-white;
+  }
+
+.navbar-light .navbar-brand, {
+  a {
+    color: $whitey-white;
+  }
+
+  color: $whitey-white;
+  }
+
+.offset {
+  background-color: $faded-black;
+  color: $whitey-white;
+  padding: 10px 0;
+  position: fixed;
+  text-align: center;
+  top: 0;
+  width: 100%;
+  z-index: 9999;
+}
+
+.offset-footer {
+  background-color: $faded-black;
+  bottom: 0;
+  color: $very-black;
+  padding: 10px 0;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  z-index: 9999;
+}
+
+.footer-container {
+  a {
+    color: $whitey-white;
+  }
+
+  background-color: $very-black;
+  color: $faded-white;
+  font-size: 14px;
+
+  h3 {
+   font-weight: normal;
+   margin: 0;
+   padding: 20px 0;
+
+ }
+
+  text-align: center;
+
+  .wrapper {
+    margin: 0 10%;
+    max-width: none;
+    width: 80%;
+  }
+}
+
+.intro1 {
+  -webkit-font-smoothing: antialiased;
+}
+
+.shrink-ray {
+  height: 100%;
+  margin-left: 10%;
+  margin-right: auto;
+  width: 70%;
+}
+
+.shrink-ray-small {
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.col-modify {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+}
+
+.contain {
+  width: 50%;
+}
+
+.wrapper {
+  margin: 0 5%;
+  width: 90%;
+}
+
+// ---
+// Scroll css
+// ---
+
+.scrollmagic-pin-spacer {
+  clip: rect(auto, auto, auto, auto);
+  position: absolute !important;
+}
+
+.slide {
+  background: -webkit-linear-gradient(-45deg, #2444E7, #922BB4);
+  height: 100vh;
+  overflow: hidden;
+
+  .pin-wrapper {
+    height: 100%;
+    width: 100%;
+  }
+
+  position: relative;
+}
+
+.slide01book6 {
+  background: asset-url('clouds3.svg');
+  background-position: right 20px bottom 10px;
+  background-repeat: no-repeat;
+  position: absolute;
+}
+
+.slide01book5 {
+  background: asset-url('clouds2.svg') bottom;
+  background-repeat: repeat-x;
+  background-size: 620%;
+  position: absolute;
+}
+
+.slide01book4 {
+  background: asset-url('mountain.svg') bottom;
+  background-repeat: repeat-x;
+  position: absolute;
+}
+
+.slide01book3 {
+  background: asset-url('clouds.svg');
+  background-repeat: repeat-x;
+  background-size: 610%;
+  position: relative;
+}
+
+.slide01book2 {
+  background: asset-url('stars.svg');
+  background-repeat: repeat-y;
+  position: relative;
+}
+
+.slide01book {
+  background: asset-url('stars.svg');
+  background-repeat: repeat-y;
+  background-size: 310%;
+  position: relative;
+}
+
+#slide02 {
+  background: (45deg, #922BB4, #E724B9);
+  background-repeat: no-repeat;
+  width: auto;
+}
+
+#slide03 {
+  background: (45deg, #248BE7, #2BB49D);
+  background-repeat: no-repeat;
+  width: auto;
+}
+
+#footer {
+  background-color: $brilliant-blue;
+  width: auto;
+}
+
+#slide01 {
+  background: -webkit-linear-gradient(-45deg, #2444E7, #922BB4);
+  background-repeat: no-repeat;
+  width: auto;
+}
+
+
+#slide01 .pin-wrapper,
+#slide02 .pin-wrapper,
+#slide03 .pin-wrapper,
+#slide04 .pin-wrapper,
+#slide05 .pin-wrapper,
+#slide06 .pin-wrapper,
+#slide07 .pin-wrapper,
+#slide08 .pin-wrapper,
+#footer .pin-wrapper, {
+  transform: translateY(-100%);
+}
+
+#footer,
+#slide00,
+#slide01,
+#slide02,
+#slide03,
+#slide04,
+#slide06,
+#slide07,
+#slide08 {
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+
+
+// -----
+// Media
+// -----
+
+@media (max-width:620px) {
+
+  .slide-mod {
+    background: -webkit-linear-gradient(-45deg, #2444E7, #922BB4);
+    height: 195vh;
+    overflow: hidden;
+    position: relative;
+  }
+
+
+  .down10 {
+    margin-top: 1%;
+    }
+
+  h1 {
+    font-size: 1.25em;
+    text-align: center;
+      }
+
+  h3 {
+    font-size: 1em;
+    }
+
+  .offset-navbar {
+    background-color: $faded-purple;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+  }
+
+  .shrink-ray-small {
+    width: 100%;
+    }
+
+  .slide01book4 {
+    background-size: 300%;
+      }
+
+  .slide01book5 {
+    background-size: 620%;
+    }
+
+  .slide01book6 {
+    background-size: 350%;
+    }
+
+  p {
+    font-size: 88%;
+    }
+
+  .pin-wrapper img {
+    float: left;
+    margin-left: 4%;
+    padding: 3%;
+    width: 33%;
+    }
+
+  .row {
+    margin-top: 0;
+    }
+
+  .wrapper-blank {
+    padding: 2em;
+    position: absolute;
+    top: 15%;
+    }
+
+
+}
+
+@media (min-width: 621px) {
+  .slide-mod {
+    background: -webkit-linear-gradient(-45deg, #2444E7, #922BB4);
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .img-hide {
+    visibility: hidden;
+    }
+
+  .pin-wrapper img {
+    float: right;
+    height: 100%;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: -5%;
+    vertical-align: middle;
+    width: 60%;
+    }
+
+  .down10 {
+    margin-top: 20%;
+  }
+
+  .row {
+    margin-top: 10%;
+    }
+
+  .wrapper-blank {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2em;
+    position: relative;
+    top: 25%;
+    width: 75%;
+    }
+
+  h1 {
+    font-size: 3em;
+    }
+
+  p {
+    font-size: 120%;
+    }
+
+  .slide01book6 {
+    background-size: 100%;
+    }
+
+  .slide01book4 {
+    background-size: 110%;
+    }
+
+  .slide01book5 {
+    background-size: 220%;
+    }
+
+  .shrink-ray-small {
+    width: 100%;
+    }
+
+  h3 {
+    font-size: 1.5em;
+    }
+
+  .offset-navbar {
+    background-color: $faded-white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+    }
+}

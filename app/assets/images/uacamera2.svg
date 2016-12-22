@@ -1,0 +1,25 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="800" height="555.06" viewBox="0 0 800 555.06">
+  <title>Artboard 2 copy 3</title>
+  <circle cx="400" cy="39.68" r="5.18" style="fill: #231f20"/>
+  <rect x="68.39" y="23.7" width="663.22" height="511.93" rx="26.12" ry="26.12" style="fill: none;stroke: #231f20;stroke-miterlimit: 10;stroke-width: 7px"/>
+  <g>
+    <rect x="438.39" y="127" width="48.61" height="62.58" rx="10.88" ry="10.88" style="fill: none;stroke: #231f20;stroke-miterlimit: 10;stroke-width: 7px"/>
+    <rect x="258.8" y="141.19" width="250.33" height="231.82" rx="28.38" ry="28.38" style="fill: #fff;stroke: #231f20;stroke-miterlimit: 10;stroke-width: 7px"/>
+    <circle cx="383.96" cy="220.87" r="53.14" style="fill: #fff;stroke: #231f20;stroke-miterlimit: 10;stroke-width: 7px"/>
+    <rect x="271.42" y="301.63" width="225.09" height="22.02" rx="11.01" ry="11.01" style="fill: #231f20"/>
+    <g>
+      <rect x="305.24" y="312.92" width="157.46" height="157.46" rx="2.62" ry="2.62" style="fill: #fff;stroke: #231f20;stroke-miterlimit: 10;stroke-width: 7px"/>
+      <path d="M332.56,452.13a53.94,53.94,0,1,1,107.89,0" style="fill: none;stroke: #231f20;stroke-miterlimit: 10;stroke-width: 7px"/>
+      <circle cx="386.5" cy="370.61" r="27.41" style="fill: none;stroke: #231f20;stroke-miterlimit: 10;stroke-width: 7px"/>
+      <rect x="318.97" y="321.24" width="129.98" height="129.98" rx="2.16" ry="2.16" style="fill: none;stroke: #231f20;stroke-miterlimit: 10;stroke-width: 7px"/>
+    </g>
+    <circle cx="383.96" cy="220.87" r="42.58" style="fill: #fff;stroke: #231f20;stroke-miterlimit: 10;stroke-width: 7px"/>
+    <circle cx="383.96" cy="220.87" r="26.34" style="fill: #231f20"/>
+    <rect x="441.65" y="167.8" width="48.61" height="21.78" rx="6.42" ry="6.42" style="fill: #fff;stroke: #231f20;stroke-miterlimit: 10;stroke-width: 7px"/>
+  </g>
+  <rect x="91.35" y="58.19" width="615.32" height="438.68" rx="23.29" ry="23.29" style="fill: none;stroke: #231f20;stroke-miterlimit: 10;stroke-width: 7px"/>
+  <g>
+    <polygon points="542.78 285.63 531.87 318.74 474.02 223.73 585.12 230.81 560.49 255.67 625.78 295.14 607.77 324.92 542.78 285.63" style="fill: #231f20"/>
+    <path d="M478.66,226.53,579.47,233l-23,23.22L622.34,296l-15.42,25.5-65.54-39.62-10.2,31-52.54-86.28m-9.26-5.6,5,8.2,52.54,86.28,5.63,9.25,3.39-10.28,8.24-25,60.17,36.37,4.28,2.59,2.59-4.28,15.42-25.5,2.59-4.28-4.28-2.59L564.5,255.17,583,236.47l7.74-7.81-11-.7L479,221.54l-9.58-.61Z" style="fill: #fff"/>
+  </g>
+</svg>
